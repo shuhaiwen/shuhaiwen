@@ -1,5 +1,6 @@
 ### Hi I'm shuhaiwen 👋
 ![shuhaiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhaiwen&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhaiwen&layout=compact)
 <!--
 **shuhaiwen/shuhaiwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

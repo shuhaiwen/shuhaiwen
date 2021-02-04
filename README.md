@@ -1,5 +1,5 @@
 ### Hi I'm shuhaiwen 👋
-![shuhaiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhaiwen&show_icons=true&theme=radical&bg_color=90deg,#fbc2eb,#a6c1ee)
+![shuhaiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhaiwen&show_icons=true&theme=radical&bg_color=90deg,rgb(251,194,235),rgb(166,193,238))
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhaiwen&layout=compact)
 <!--

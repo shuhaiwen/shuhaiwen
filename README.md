@@ -1,5 +1,5 @@
 ### Hi I'm shuhaiwen 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuhaiwen&repo=shuhaiwen.github.io)](https://github.com/shuhaiwen/shuhaiwen.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuhaiwen&bg_color=45,fbc2eb,a6c1ee&repo=shuhaiwen.github.io)](https://github.com/shuhaiwen/shuhaiwen.github.io)
 </br>
 ![shuhaiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhaiwen&show_icons=true&theme=radical&bg_color=45,fbc2eb,a6c1ee)
 </br>

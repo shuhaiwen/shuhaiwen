@@ -1,7 +1,7 @@
 ### Hi I'm shuhaiwen 👋
-![shuhaiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhaiwen&show_icons=true&theme=radical&bg_color=90,fbc2eb,a6c1ee)
+![shuhaiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhaiwen&show_icons=true&theme=radical&bg_color=45,fbc2eb,a6c1ee)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhaiwen&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhaiwen&layout=compact&bg_color=45,fbc2eb,a6c1ee)
 <!--
 **shuhaiwen/shuhaiwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

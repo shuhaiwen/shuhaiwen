@@ -1,8 +1,12 @@
 ### 😄 Hi I'm shuhaiwen ,mainly use C + + programming.I have a blog,you can click for view.☞[shuhaiwen's blog](https://shuhaiwen.github.io/technical-documents/)👋
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuhaiwen&bg_color=45,fbc2eb,a6c1ee&repo=shuhaiwen.github.io)](https://github.com/shuhaiwen/shuhaiwen.github.io)
-</br>
-![shuhaiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhaiwen&show_icons=true&theme=radical&bg_color=45,fbc2eb,a6c1ee)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shuhaiwen&bg_color=45,fbc2eb,a6c1ee&show_owner=true&repo=technical-documents)](https://github.com/shuhaiwen/technical-documents)
+
+[![shuhaiwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuhaiwen&show_icons=true&theme=radical&bg_color=45,fbc2eb,a6c1ee)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuhaiwen&layout=compact&bg_color=45,fbc2eb,a6c1ee)
+
+
 <!--
 **shuhaiwen/shuhaiwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
